@@ -1,0 +1,32 @@
+.form-container-finance-type {
+  margin-top: 50px;
+  margin-bottom: 10px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form-container-finance-type > form {
+  margin-top: 50px;
+}
+
+p {
+  color: #ff3333;
+  margin-bottom: 15px;
+  border: 1px solid #ff3333;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.list-container-finance-type {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.list-container-finance-type > .table {
+  margin-top: 50px;
+  max-width: 1000px;
+}

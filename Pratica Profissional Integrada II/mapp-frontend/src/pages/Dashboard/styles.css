@@ -1,0 +1,21 @@
+.dashboard-container {
+  width: 100%;
+  margin: 10px;
+}
+
+.buttons {
+  max-width: 500px;
+  margin: 50px;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.bar-chart {
+  margin: 50px;
+}
+
+.tables-container {
+  margin: 50px;
+}

@@ -1,0 +1,14 @@
+.container {
+  width: 1000px;
+  height: 90vh;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title-container {
+  margin-top: 50px;
+}
