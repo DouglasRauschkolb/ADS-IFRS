@@ -1,0 +1,16 @@
+.myarts-container {
+  margin: 25px;
+  display: flex;
+  justify-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-lista {
+  width: 1000px;
+}
+
+.btn-new-presentation {
+  margin-top: 25px;
+}
