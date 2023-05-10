@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "date" : "03/06/2020",
+        "time" : "lunch",
+        "options" : [
+            "Risoto de calabreas e queijo",
+            "Feijão",
+            "Cenoura sauté",
+            "Saladas/Sobremesa"
+        ]
+    }, 
+    {
+        "id": 2,
+        "date" : "03/06/2020",
+        "time" : "dinner",
+        "options" : [
+            "Café/Leite",
+            "Arroz/Feijão",
+            "Tatu assado ao molho",
+            "Buffet de Saladas"
+        ]
+    },
+    {
+        "id": 3,
+        "date" : "04/06/2020",
+        "time" : "lunch",
+        "options" : [
+            "Arroz integral/Feijão",
+            "Polenta recheada",
+            "Couve refogada",
+            "Saladas/Sobremesa"
+        ]
+    }, 
+    {
+        "id": 4,
+        "date" : "04/06/2020",
+        "time" : "dinner",
+        "options" : [
+            "Café/Leite",
+            "Arroz integral/Feijão",
+            "Sopa creme de moranga",
+            "Pão baquete recheado",
+            "Buffet de Saladas"
+        ]
+    },
+    {
+        "id": 5,
+        "date" : "05/06/2020",
+        "time" : "lunch",
+        "options" : [
+            "Arroz integral/Feijão",
+            "Escondidinho de batata doce",
+            "Saladas/Sobremesa"
+        ]
+    },
+    {
+        "id": 6,
+        "date" : "05/06/2020",
+        "time" : "dinner",
+        "options" : [
+            "Café/Leite",
+            "Arroz integral/Feijão",
+            "Polenta ao molho de frango",
+            "Couve refogada",
+            "Buffet de Saladas"
+        ]
+    },
+    {
+        "id": 7,
+        "date" : "06/06/2020",
+        "time" : "lunch",
+        "options" : [
+            "Carreteiro",
+            "Feijão",
+            "Moranga refogada com temperinho verde",
+            "Saladas/Sobremesa"
+        ]
+    },
+    {
+        "id": 8,
+        "date" : "06/06/2020",
+        "time" : "dinner",
+        "options" : [
+            "Café/Leite",
+            "Arroz/Feijão",
+            "Ensopado de carne com batata doce",
+            "Buffet de Saladas"
+        ]
+    },
+    {
+        "id": 9,
+        "date" : "07/06/2020",
+        "time" : "lunch",
+        "options" : [
+            "Arroz integral/Feijão",
+            "Aipim gratinado à bolonhesa",
+            "Saladas/Sobremesa"
+        ]
+    }
+
+]
