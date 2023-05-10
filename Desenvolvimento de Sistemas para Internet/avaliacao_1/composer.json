@@ -1,0 +1,16 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Model\\": "models/",
+            "Controller\\": "controllers/",
+            "Utils\\": "classes/"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "require": {
+        "embed/embed": "^4.2",
+        "slim/psr7": "^1.2"
+    }
+}
